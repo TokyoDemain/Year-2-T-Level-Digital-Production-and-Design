@@ -1,0 +1,7 @@
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - For loops\Challenges - For loops\obj\Debug\net6.0-windows\Challenges - For loops.csproj.AssemblyReference.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - For loops\Challenges - For loops\obj\Debug\net6.0-windows\Challenges___For_loops.Form1.resources
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - For loops\Challenges - For loops\obj\Debug\net6.0-windows\Challenges - For loops.csproj.GenerateResource.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - For loops\Challenges - For loops\obj\Debug\net6.0-windows\Challenges - For loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - For loops\Challenges - For loops\obj\Debug\net6.0-windows\Challenges - For loops.AssemblyInfoInputs.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - For loops\Challenges - For loops\obj\Debug\net6.0-windows\Challenges - For loops.AssemblyInfo.cs
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - For loops\Challenges - For loops\obj\Debug\net6.0-windows\Challenges - For loops.csproj.CoreCompileInputs.cache

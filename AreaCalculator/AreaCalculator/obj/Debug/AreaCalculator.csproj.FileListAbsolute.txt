@@ -1,0 +1,11 @@
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.exe.config
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.exe
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.pdb
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.AssemblyReference.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.Form1.resources
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.Properties.Resources.resources
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.GenerateResource.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.exe
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.pdb

@@ -1,0 +1,11 @@
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\bin\Debug\VendingMachine2.exe.config
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\bin\Debug\VendingMachine2.exe
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\bin\Debug\VendingMachine2.pdb
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\obj\Debug\VendingMachine2.csproj.AssemblyReference.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\obj\Debug\VendingMachine2.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\obj\Debug\VendingMachine2.Form1.resources
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\obj\Debug\VendingMachine2.Properties.Resources.resources
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\obj\Debug\VendingMachine2.csproj.GenerateResource.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\obj\Debug\VendingMachine2.csproj.CoreCompileInputs.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\obj\Debug\VendingMachine2.exe
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\VendingMachine2\VendingMachine2\obj\Debug\VendingMachine2.pdb

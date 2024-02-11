@@ -1,0 +1,11 @@
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\bin\Debug\PeopleDb2024.exe.config
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\bin\Debug\PeopleDb2024.exe
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\bin\Debug\PeopleDb2024.pdb
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\obj\Debug\PeopleDb2024.csproj.AssemblyReference.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\obj\Debug\PeopleDb2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\obj\Debug\PeopleDb2024.Properties.Resources.resources
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\obj\Debug\PeopleDb2024.csproj.GenerateResource.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\obj\Debug\PeopleDb2024.csproj.CoreCompileInputs.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\obj\Debug\PeopleDb2024.exe
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\obj\Debug\PeopleDb2024.pdb
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\PeopleDb2024\PeopleDb2024\obj\Debug\PeopleDb2024.DatabaseAccess.resources

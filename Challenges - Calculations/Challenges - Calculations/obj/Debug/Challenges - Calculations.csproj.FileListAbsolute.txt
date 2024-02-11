@@ -1,0 +1,11 @@
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\bin\Debug\Challenges - Calculations.exe.config
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\bin\Debug\Challenges - Calculations.exe
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\bin\Debug\Challenges - Calculations.pdb
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\obj\Debug\Challenges - Calculations.csproj.AssemblyReference.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\obj\Debug\Challenges - Calculations.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\obj\Debug\Challenges___Calculations.Form1.resources
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\obj\Debug\Challenges___Calculations.Properties.Resources.resources
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\obj\Debug\Challenges - Calculations.csproj.GenerateResource.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\obj\Debug\Challenges - Calculations.csproj.CoreCompileInputs.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\obj\Debug\Challenges - Calculations.exe
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\Challenges - Calculations\Challenges - Calculations\obj\Debug\Challenges - Calculations.pdb

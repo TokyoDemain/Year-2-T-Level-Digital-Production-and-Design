@@ -1,0 +1,31 @@
+C:\Users\Watson\source\repos\OnlineBanking\OnlineBanking\bin\Debug\OnlineBanking.exe.config
+C:\Users\Watson\source\repos\OnlineBanking\OnlineBanking\bin\Debug\OnlineBanking.exe
+C:\Users\Watson\source\repos\OnlineBanking\OnlineBanking\bin\Debug\OnlineBanking.pdb
+C:\Users\Watson\source\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csprojAssemblyReference.cache
+C:\Users\Watson\source\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.Form1.resources
+C:\Users\Watson\source\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.Properties.Resources.resources
+C:\Users\Watson\source\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.GenerateResource.cache
+C:\Users\Watson\source\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.CoreCompileInputs.cache
+C:\Users\Watson\source\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.exe
+C:\Users\Watson\source\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.pdb
+N:\Middlesbrough College\Apprenticeships\C#\repos\OnlineBanking\OnlineBanking\bin\Debug\OnlineBanking.exe.config
+N:\Middlesbrough College\Apprenticeships\C#\repos\OnlineBanking\OnlineBanking\bin\Debug\OnlineBanking.exe
+N:\Middlesbrough College\Apprenticeships\C#\repos\OnlineBanking\OnlineBanking\bin\Debug\OnlineBanking.pdb
+N:\Middlesbrough College\Apprenticeships\C#\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csprojAssemblyReference.cache
+N:\Middlesbrough College\Apprenticeships\C#\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.Form1.resources
+N:\Middlesbrough College\Apprenticeships\C#\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.Properties.Resources.resources
+N:\Middlesbrough College\Apprenticeships\C#\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.GenerateResource.cache
+N:\Middlesbrough College\Apprenticeships\C#\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.CoreCompileInputs.cache
+N:\Middlesbrough College\Apprenticeships\C#\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.exe
+N:\Middlesbrough College\Apprenticeships\C#\repos\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.pdb
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\bin\Debug\OnlineBanking.exe.config
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\bin\Debug\OnlineBanking.exe
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\bin\Debug\OnlineBanking.pdb
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.AssemblyReference.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.Form1.resources
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.Properties.Resources.resources
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.GenerateResource.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.CoreCompileInputs.cache
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.exe
+C:\Users\M2202787\OneDrive - Middlesbrough College\Documents\2023 - 2024 C# Programming\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.pdb
